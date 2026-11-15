@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mhamada2000_cmyk.twa",
+        "sha256_cert_fingerprints": ["4A:D2:DE:15:7B:21:05:84:F6:44:33:16:D8:3A:4F:63:C0:93:89:19:E8:D6:3B:B9:AB:75:31:18:52:12:9D:8B"]
+      }
+    }]
